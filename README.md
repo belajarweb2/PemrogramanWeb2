@@ -1,7 +1,7 @@
 # PemrogramanWeb2
-
-NPM
-Nama
-Kelas
-Jurusan
-UNIPI
+<br>
+NPM <br>
+Nama <br>
+Kelas <br>
+Jurusan <br>
+<b>UNIPI</b> <br>
